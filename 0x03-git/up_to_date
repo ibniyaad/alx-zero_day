@@ -1,1 +1,1 @@
-git log --stat
+git merge origin/main
